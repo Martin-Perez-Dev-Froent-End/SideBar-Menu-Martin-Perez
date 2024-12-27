@@ -1,1 +1,2 @@
-
+# SideBar Menu | Martin Perez
+**Este es un SideBar Menu interactivo, diseñado con HTML, CSS y JavaScript. Tiene un fondo azul oscuro que ofrece una estética moderna y limpia. El menú contiene secciones esenciales como Dashboard, Overview, Analytic, Projects, Groups y Transfer, cada una acompañada de un ícono representativo. También incluye un área al final del menú donde se muestra el nombre del usuario, mejorando la organización y accesibilidad. Este proyecto utiliza Font Awesome para los íconos y es una solución eficaz para crear interfaces de usuario intuitivas y fáciles de usar.**
